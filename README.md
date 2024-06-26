@@ -14,14 +14,14 @@ Former tech recruiter and Oxford grad turned software engineer. I am fascinated 
 
 ## Work Experience
 
-**TechMap** (May 2024 - present)  
+[**TechMap**](https://www.techmap.app/) (May 2024 - present)  
 _Technical Coach_
 
 - Teaching technical concepts and programming fundamentals to learners.
 - Mentoring students through their learning journey, providing tailored feedback and helping them to build confidence and improve their skills.
 - Partnering with co-founders to continuously improve the curriculum and teaching methodologies.
 
-**Makers Academy** (January 2024 - May 2024)<br>
+[**Makers Academy**](https://makers.tech/) (January 2024 - May 2024)<br>
 _Trainee Software Developer_
 
 - Frequently used pairing to problem-solve efficiently, requiring teamwork and communication.
