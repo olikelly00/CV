@@ -6,11 +6,11 @@ Former tech recruiter and Oxford grad turned software engineer. I am fascinated 
 
 | Name              | Description                                              | Tech/tools                                | Testing | Demos |
 |-------------------|----------------------------------------------------------|-------------------------------------------|---------|-------|
-| **Cassandra**     | AI-powered tarot card reading web app                    | Go, Gin (Backend); SvelteKit, HTML/CSS (Frontend), Render (Deployment) | TDD, OOP principles, Pair programming, Debugging | Go Testing Framework,         | [Find Cassandra on Render](https://cassandratarot.onrender.com/) |
-| **Satellite**     | Social media iOS app based on Facebook                   | Swift, SwiftUI, Xcode                      | Pairing, Debugging, OOP principles |         | Check out the product demo [here](https://drive.google.com/file/d/10Uwy-DGlOCl68RqSkdI2djT0GSm-rpU2/view?usp=sharing)
-| **Acebook**       | Web app based on Facebook                                | Go, Gin, SQL, Postgres (Backend); Javascript, React.js HTML/CSS (Frontend) | TDD, OOP principles, Pair programming, Debugging |         |
-| **Arrivals Lounge**| Terminal-based app displaying flight arrivals worldwide  | Go, FlightAware API                        | TDD, OOP principles, Debugging |         |
-| **Harmony Hackathon** | Research tool for psychologists to harmonise data and questionnaire items | Python, Pytest                              | TDD, Pair programming, Debugging |         |
+| **Cassandra**     | AI-powered tarot card reading web app                    | Go, Gin (Backend); SvelteKit, HTML/CSS (Frontend), Render (Deployment) | Go Testing Framework, |          | [Find Cassandra on Render](https://cassandratarot.onrender.com/) |
+| **Satellite**     | Social media iOS app based on Facebook                   | Swift, SwiftUI, Xcode                      |  | Check out the product demo [here](https://drive.google.com/file/d/10Uwy-DGlOCl68RqSkdI2djT0GSm-rpU2/view?usp=sharing)        | 
+| **Acebook**       | Web app based on Facebook                                | Go, Gin, SQL, Postgres (Backend); Javascript, React.js HTML/CSS (Frontend) | Go Testing Framework, JEST |         |
+| **Arrivals Lounge**| Terminal-based app displaying flight arrivals worldwide  | Go, FlightAware API                        | Go Testing Framework |         |
+| **Harmony Hackathon** | Research tool for psychologists to harmonise data and questionnaire items | Python                              | Pytest |         |
 
 ## Work Experience
 
@@ -21,7 +21,7 @@ _Technical Coach_
 - Mentoring students through their learning journey, providing tailored feedback and helping them to build confidence and improve their skills.
 - Partnering with co-founders to continuously improve the curriculum and teaching methodologies.
 
-**Makers Academy* (January 2024 - May 2024)
+**Makers Academy** (January 2024 - May 2024)
 _Trainee Software Developer_
 
 - Frequently used pairing to problem-solve efficiently, requiring teamwork and communication.
