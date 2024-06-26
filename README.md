@@ -7,7 +7,6 @@ Former tech recruiter and Oxford grad turned software engineer. I am fascinated 
 | Name              | Description                                              | Tech/tools                                | Testing | Demos |
 |-------------------|----------------------------------------------------------|-------------------------------------------|---------|-------|
 | [**WordWise**](https://github.com/olikelly00/wordwise-web-app) | Web application for language learning and vocabulary management | Python, Flask (Backend); HTML, CSS, JavaScript (Frontend); PostgreSQL (Database); DeepL API (External API) | Pytest | |
-
 | [**Cassandra**](https://github.com/olikelly00/cassandra)    | AI-powered tarot card reading web app                    | Go, Gin (Backend); SvelteKit, HTML/CSS (Frontend), Render (Deployment) | Go Testing Framework | [Click to launch the web app](https://cassandratarot.onrender.com/) |
 | [**Satellite**](https://github.com/olikelly00/satellite-ios-app)     | Social media iOS app based on Facebook                   | Swift, SwiftUI, Xcode                      |  | [Click to see the product demo](https://drive.google.com/file/d/10Uwy-DGlOCl68RqSkdI2djT0GSm-rpU2/view?usp=sharing)        | 
 | [**Acebook**](https://github.com/olikelly00/xenon-go-react-acebook)       | Web app based on Facebook                                | Go, Gin, SQL, Postgres (Backend); Javascript, React.js HTML/CSS (Frontend) | Go Testing Framework, JEST |         |
