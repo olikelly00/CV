@@ -6,11 +6,11 @@ Former tech recruiter and Oxford grad turned software engineer. I am fascinated 
 
 | Name              | Description                                              | Tech/tools                                | Testing | Demos |
 |-------------------|----------------------------------------------------------|-------------------------------------------|---------|-------|
-| **Cassandra**     | AI-powered tarot card reading web app                    | Go, Gin (Backend); SvelteKit, HTML/CSS (Frontend), Render (Deployment) | Go Testing Framework | [Click to launch the web app](https://cassandratarot.onrender.com/) |
-| **Satellite**     | Social media iOS app based on Facebook                   | Swift, SwiftUI, Xcode                      |  | [Click to see the product demo](https://drive.google.com/file/d/10Uwy-DGlOCl68RqSkdI2djT0GSm-rpU2/view?usp=sharing)        | 
-| **Acebook**       | Web app based on Facebook                                | Go, Gin, SQL, Postgres (Backend); Javascript, React.js HTML/CSS (Frontend) | Go Testing Framework, JEST |         |
-| **Arrivals Lounge**| Terminal-based app displaying flight arrivals worldwide  | Go, FlightAware API                        | Go Testing Framework |         |
-| **Harmony Hackathon** | Research tool for psychologists to harmonise data and questionnaire items | Python                              | Pytest |         |
+| [**Cassandra**](https://github.com/olikelly00/cassandra)    | AI-powered tarot card reading web app                    | Go, Gin (Backend); SvelteKit, HTML/CSS (Frontend), Render (Deployment) | Go Testing Framework | [Click to launch the web app](https://cassandratarot.onrender.com/) |
+| [**Satellite**](https://github.com/olikelly00/satellite-ios-app)     | Social media iOS app based on Facebook                   | Swift, SwiftUI, Xcode                      |  | [Click to see the product demo](https://drive.google.com/file/d/10Uwy-DGlOCl68RqSkdI2djT0GSm-rpU2/view?usp=sharing)        | 
+| [**Acebook**](https://github.com/olikelly00/xenon-go-react-acebook)       | Web app based on Facebook                                | Go, Gin, SQL, Postgres (Backend); Javascript, React.js HTML/CSS (Frontend) | Go Testing Framework, JEST |         |
+| [**Arrivals Lounge**](https://github.com/olikelly00/arrivals-lounge)| Terminal-based app displaying flight arrivals worldwide  | Go, FlightAware API                        | Go Testing Framework |         |
+| [**Harmony Hackathon**](https://github.com/olikelly00/harmony-cheemu) | Research tool for psychologists to harmonise data and questionnaire items | Python                              | Pytest |         |
 
 ## Work Experience
 
