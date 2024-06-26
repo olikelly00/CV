@@ -6,8 +6,8 @@ Former tech recruiter and Oxford grad turned software engineer. I am fascinated 
 
 | Name              | Description                                              | Tech/tools                                | Testing | Demos |
 |-------------------|----------------------------------------------------------|-------------------------------------------|---------|-------|
-| **Cassandra**     | AI-powered tarot card reading web app                    | Go, Gin (Backend); SvelteKit, HTML/CSS (Frontend), Render (Deployment) | Go Testing Framework, |          | [Find Cassandra on Render](https://cassandratarot.onrender.com/) |
-| **Satellite**     | Social media iOS app based on Facebook                   | Swift, SwiftUI, Xcode                      |  | Check out the product demo [here](https://drive.google.com/file/d/10Uwy-DGlOCl68RqSkdI2djT0GSm-rpU2/view?usp=sharing)        | 
+| **Cassandra**     | AI-powered tarot card reading web app                    | Go, Gin (Backend); SvelteKit, HTML/CSS (Frontend), Render (Deployment) | Go Testing Framework, | [Find Cassandra on Render](https://cassandratarot.onrender.com/). |
+| **Satellite**     | Social media iOS app based on Facebook                   | Swift, SwiftUI, Xcode                      |  | Check out the product demo [here].(https://drive.google.com/file/d/10Uwy-DGlOCl68RqSkdI2djT0GSm-rpU2/view?usp=sharing)        | 
 | **Acebook**       | Web app based on Facebook                                | Go, Gin, SQL, Postgres (Backend); Javascript, React.js HTML/CSS (Frontend) | Go Testing Framework, JEST |         |
 | **Arrivals Lounge**| Terminal-based app displaying flight arrivals worldwide  | Go, FlightAware API                        | Go Testing Framework |         |
 | **Harmony Hackathon** | Research tool for psychologists to harmonise data and questionnaire items | Python                              | Pytest |         |
@@ -63,7 +63,8 @@ _Stripe | Meta | Thread_
 
 ### Communication
 
-I honed my communication skills while completing my thesis at Oxford University, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills while working in a digital marketing agency, presenting quarterly business reviews to C-level stakeholders. At Makers Academy, I ran a session for my mentees on using mocks to improve unit test isolation, receiving positive feedback on the session’s clarity and effectiveness.
+At Cleo, I partnered with Head of Engineering to build the first Engineering interviewer training program, which required synthesizing technical information for different stakeholders. My communication skills were also developed while sourcing senior Engineers at Meta. While at Meta, I improved candidate outreach, led teams on sourcing sprints and conducted training sessions on technical topics and recruitment best practices. 
+
 
 ### Leadership
 
