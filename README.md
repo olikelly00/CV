@@ -63,8 +63,7 @@ _Stripe | Meta | Thread_
 
 ### Communication
 
-At Cleo, I partnered with Head of Engineering to build the first Engineering interviewer training program, which required synthesizing technical information for different stakeholders. My communication skills were also developed while sourcing senior Engineers at Meta. While at Meta, I improved candidate outreach, led teams on sourcing sprints and conducted training sessions on technical topics and recruitment best practices. 
-
+At Cleo, I collaborated with the Head of Engineering to create the first Engineering interviewer training program, effectively communicating technical information to various stakeholders. At Meta, I refined my communication skills by sourcing senior Engineers, improving candidate outreach, leading sourcing sprints, and conducting training sessions on technical topics and recruitment best practices.
 
 ### Leadership
 
