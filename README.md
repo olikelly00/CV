@@ -21,7 +21,7 @@ _Technical Coach_
 - Mentoring students through their learning journey, providing tailored feedback and helping them to build confidence and improve their skills.
 - Partnering with co-founders to continuously improve the curriculum and teaching methodologies.
 
-**Makers Academy** (January 2024 - May 2024)
+**Makers Academy** (January 2024 - May 2024)<br>
 _Trainee Software Developer_
 
 - Frequently used pairing to problem-solve efficiently, requiring teamwork and communication.
