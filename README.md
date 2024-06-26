@@ -28,7 +28,7 @@ _Trainee Software Developer_
 - Applied OOP, TDD, MVC, DDD, Agile/XP methodologies.
 - Worked with Python, Go, Gin, JavaScript and SvelteKit.
 
-**Cleo** (January 2023 - September 2023)  
+[**Cleo**](https://web.meetcleo.com/) (January 2023 - September 2023)  
 _Senior Tech Talent Sourcer_
 
 - Collaborated closely with Engineers and Engineering Leaders to define requirements for technical roles.
@@ -36,7 +36,7 @@ _Senior Tech Talent Sourcer_
 - Improved candidate outreach, increasing team-wide response rate by 12%.
 - Developed and implemented a diversity sourcing strategy, achieving significant diversity hiring milestones.
 
-**Meta** (October 2021 - January 2023)  
+[**Meta**](https://about.meta.com/uk/) (October 2021 - January 2023)  
 _Technical Sourcing Specialist_
 
 - Partnered with Senior Engineering Managers to scope technical roles and deliver training on the Metaverse to ~600 recruiters.
@@ -45,7 +45,7 @@ _Technical Sourcing Specialist_
 - Exceeded diversity hiring targets and created 12 diversity sourcing sessions for the team.
 
 **Various Recruitment Coordinator Roles** (July 2018 – September 2021)  
-_Stripe | Meta | Thread_
+_[Stripe](https://stripe.com/gb) | [Meta](https://about.meta.com/uk/) | [Thread](https://www.thread.com/)_
 
 - Developed the interviewer training process for Stripe’s Technical Services pipeline, increasing the interviewer pool by 250%.
 - Analyzed and reported interviewer data, enhancing weekly capacity and training updates.
