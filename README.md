@@ -1,4 +1,4 @@
-# Oli Kelly
+# Oli Kelly - Software Engineer 👨‍💻
 
 Former tech recruiter and Oxford grad turned software engineer. I am fascinated by all things digital and new technologies. With a passion for problem-solving and a multilingual background, I’m dedicated to crafting high-quality code and building impactful user-oriented products.
 
